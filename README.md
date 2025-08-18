@@ -15,6 +15,11 @@ Dado que JS ejecuta directamente en el navegador, solo es necesario copiar este 
 https://github.com/lopezjuanjo2000/Secret-Number-Game.git
 ```
 
+Tambien se puede probar directamente en el siguiente enlace:
+```bash
+https://lopezjuanjo2000.github.io/Secret-Number-Game/
+```
+
 # Funcionamiento
 
 1.	Una vez abierta la página web el código genera un numero aleatorio entre 1 y 10, y muestra un mensaje de presentación.
