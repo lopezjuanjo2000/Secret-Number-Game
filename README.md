@@ -3,10 +3,12 @@
 <img width="2048" height="2048" alt="Gemini_Generated_Image_oprfedoprfedoprf" src="https://github.com/user-attachments/assets/b8b2e7af-61d3-4f77-a3e2-611dd65a3d77" />
 <!-- Caricatura: Persona pensando en números. Creada con Gemini 2.0 -->
 
+[![Perfil de GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lopezjuanjo2000)
+
 # Descripción
 
 El programa ejecuta un juego en el que el usuario debe adivinar un número entre 1 y 10 generado de forma aleatoria. Adicionalmente, lleva el registro de la cantidad de intentos y proporciona pistas para ayudar al jugador. 
-El proyecto fue desarrollado como parte de uno de los desafíos propuestos en Oracle Next Education(ONE). Es construido en JavaScript (JS) y se integra con una interfaz HTML/CSS previamente proporcionada.
+El proyecto fue desarrollado como parte de uno de los desafíos propuestos en Oracle Next Education(ONE). Esta construido en JavaScript (JS) y se integra con una interfaz HTML/CSS previamente proporcionada.
 
 # Requisitos
 
@@ -63,3 +65,13 @@ https://lopezjuanjo2000.github.io/Secret-Number-Game/
 	-	Deshabilita el botón reiniciar. 
 	-	Llama a  `cleanInput`.
  	-   Llama a `gameStart`. 
+
+## Autores
+
+Codigo JS: Juan Jose Lopez
+[Mi perfil de GitHub](https://github.com/lopezjuanjo2000)
+
+Los codigos codigo HTML y CSS fueron proporcionados por: Alura Latam
+[Perfil de GitHub de Alura Latam](https://github.com/alura-es-cursos)
+
+
