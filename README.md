@@ -6,7 +6,7 @@
 # Descripción
 
 El programa ejecuta un juego en el que el usuario debe adivinar un número entre 1 y 10 generado de forma aleatoria. Adicionalmente, lleva el registro de la cantidad de intentos y proporciona pistas para ayudar al jugador. 
-El proyecto fue desarrollado como parte de uno de los desafíos propuestos en Oracle Next Generation. Es construido en JavaScript (JS) y se integra con una interfaz HTML/CSS previamente proporcionada.
+El proyecto fue desarrollado como parte de uno de los desafíos propuestos en Oracle Next Education(ONE). Es construido en JavaScript (JS) y se integra con una interfaz HTML/CSS previamente proporcionada.
 
 # Requisitos
 
