@@ -34,6 +34,7 @@ https://lopezjuanjo2000.github.io/Secret-Number-Game/
 
 -	**index.html:** estructura principal de la interfaz (proporcionado).
 -	**style.css:** estilos visuales (proporcionado).
+-	**assets:** imágenes de la pagina web (proporcionadas).
 -	**app.js:** lógica en JavaScript (desarrollada).
 
 ## Variables principales (JS)
@@ -71,7 +72,7 @@ https://lopezjuanjo2000.github.io/Secret-Number-Game/
 Codigo JS: Juan Jose Lopez
 [Mi perfil de GitHub](https://github.com/lopezjuanjo2000)
 
-Los codigos codigo HTML y CSS fueron proporcionados por: Alura Latam
+Los assets y codigos HTML y CSS fueron proporcionados por: Alura Latam
 [Perfil de GitHub de Alura Latam](https://github.com/alura-es-cursos)
 
 
